@@ -7,5 +7,5 @@ Details of the uploads are:
 3. conf.yaml = lpn configurations
 4. UntrainLPN_Results = Results of untrained LPN50
 
-## Update: 
+### Update: 
 The repo contains just the LPN model architecture, and said untrained model's performance on pose estimation for a sample image. Model described here is nto trained and trained weights for the model are not provided either.
